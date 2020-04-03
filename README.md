@@ -2,7 +2,7 @@
 
 This challenge comes with some initial (buggy!) code. We suggest approaching this problem with a TDD mindset, meaning "write tests, make the tests pass, repeat!".
 
-Start by cloning this repository. Then, run `npm install` in the directory to install all the dependencies. This project has Mocha for running tests, and you'll find that there are already some tests present.
+Start by forking this repository, and cloning your fork. Then, run `npm install` in the directory to install all the dependencies. This project has Mocha for running tests, and you'll find that there are already some tests present.
 
 Run tests with `npm test`. You'll find that one of the tests doesn't pass yet, so you'll want to start by editing the code in `wordsearch.js` to allow the tests to pass.
 
